@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "pgrdynamique/1.0.0": {
+        "runtime": {
+          "pgrdynamique.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "pgrdynamique/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

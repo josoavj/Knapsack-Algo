@@ -1,0 +1,45 @@
+C:\Users\miran\Documents\pgrdynamique\bin\Debug\net7.0\pgrdynamique.exe
+C:\Users\miran\Documents\pgrdynamique\bin\Debug\net7.0\pgrdynamique.deps.json
+C:\Users\miran\Documents\pgrdynamique\bin\Debug\net7.0\pgrdynamique.runtimeconfig.json
+C:\Users\miran\Documents\pgrdynamique\bin\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique\bin\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.csproj.AssemblyReference.cache
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.AssemblyInfoInputs.cache
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.AssemblyInfo.cs
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.csproj.CoreCompileInputs.cache
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\refint\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\pgrdynamique.genruntimeconfig.cache
+C:\Users\miran\Documents\pgrdynamique\obj\Debug\net7.0\ref\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique - Copie\bin\Debug\net7.0\pgrdynamique.exe
+C:\Users\miran\Documents\pgrdynamique - Copie\bin\Debug\net7.0\pgrdynamique.deps.json
+C:\Users\miran\Documents\pgrdynamique - Copie\bin\Debug\net7.0\pgrdynamique.runtimeconfig.json
+C:\Users\miran\Documents\pgrdynamique - Copie\bin\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique - Copie\bin\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.csproj.AssemblyReference.cache
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.AssemblyInfoInputs.cache
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.AssemblyInfo.cs
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.csproj.CoreCompileInputs.cache
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\refint\pgrdynamique.dll
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\pgrdynamique.genruntimeconfig.cache
+C:\Users\miran\Documents\pgrdynamique - Copie\obj\Debug\net7.0\ref\pgrdynamique.dll
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\bin\Debug\net7.0\pgrdynamique.exe
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\bin\Debug\net7.0\pgrdynamique.deps.json
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\bin\Debug\net7.0\pgrdynamique.runtimeconfig.json
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\bin\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\bin\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.csproj.AssemblyReference.cache
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.AssemblyInfoInputs.cache
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.AssemblyInfo.cs
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.csproj.CoreCompileInputs.cache
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.dll
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\refint\pgrdynamique.dll
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.pdb
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\pgrdynamique.genruntimeconfig.cache
+C:\Users\miran\Documents\Devoir Algo avancée 15.09.2023\obj\Debug\net7.0\ref\pgrdynamique.dll
